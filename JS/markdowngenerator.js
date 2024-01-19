@@ -43,3 +43,28 @@ function generateMarkdown(data) {
   ${renderLicenseSection(data.license)}
   `;
   }
+
+
+  // Function to render the license badge
+function renderLicenseBadge(license) {
+    return license !== "None" ? `![Github License](https://img.shields.io/badge/license-${license}-yellowgreen.svg)` : "";
+  }
+  
+  // Function to render the license link
+  function renderLicenseLink(license) {
+    return license !== "None" ? `\n* [License](#license)\n` : "";
+  }
+  
+  // Function to render the license section in the README
+  function renderLicenseSection(license) {
+    return license !== "None"
+      ? `## License  
+    
+  Copyright © ${new Date().getFullYear()} ${license}. All rights reserved.
+  
+  Licensed under the [${license}](#license) license.`
+      : "";
+  }
+
+
+  module.exports = generateMarkdown;
