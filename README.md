@@ -22,7 +22,7 @@ To use the Professional README Generator, follow these steps:
 1. Clone the repository to your local machine.
 
 ```bash
-git clone [https://github.com/your-username/professional-readme-generator.git](https://github.com/KiranPandranki17/README-generator-bootcamp)
+git clone [https://github.com/KiranPandranki17/README-generator-bootcamp.git](https://github.com/KiranPandranki17/README-generator-bootcamp)
 ```
 2.Navigate to the project directory.
 ```bash
