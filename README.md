@@ -6,9 +6,8 @@
 
 - [Description](#description)
 - [Installation](#installation)
-- [Usage](#usage)
 - [License](#license)
-- [Walkthrough video](#Walkthrough)
+- [Walkthrough](#Walkthrough)
 - [Questions](#questions)
 
 ## Description
@@ -41,8 +40,7 @@ The generator will dynamically generate a professional README file based on your
 ## License
 This project is licensed under the MIT license.
 
-## Walkthrough Video
-
+## Walkthrough
 https://github.com/KiranPandranki17/README-generator-bootcamp/assets/140180379/3a46e0a6-c63a-4082-b7c5-a4a291d7216f
 
 ## Questions
