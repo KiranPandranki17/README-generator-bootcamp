@@ -24,3 +24,10 @@ To use the Professional README Generator, follow these steps:
 
 ```bash
 git clone https://github.com/your-username/professional-readme-generator.git
+
+cd readme-generator-bootcamp
+
+npm install
+
+node index.js
+
