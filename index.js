@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 const inquirer = require("inquirer");
-const generateMarkdown = require("./utils/generateMarkdown");
+const generateMarkdown = require("./JS/markdowngenerator");
 
 const questions = [
   {
@@ -39,7 +39,7 @@ const questions = [
     ],
   },
   {
-    type: "radio",
+    type: "list",
     name: "license",
     message: "Please select a license you would like to use?",
     choices: [
