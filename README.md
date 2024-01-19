@@ -43,7 +43,7 @@ This project is licensed under the MIT license.
 
 ## Walkthrough Video
 
-https://github.com/KiranPandranki17/README-generator-bootcamp/assets/140180379/b9b2b1e4-8ca3-4b8b-bdff-73efd5371291
+https://github.com/KiranPandranki17/README-generator-bootcamp/assets/140180379/3a46e0a6-c63a-4082-b7c5-a4a291d7216f
 
 ## Questions
 If you have any questions or need further assistance, feel free to reach out:
