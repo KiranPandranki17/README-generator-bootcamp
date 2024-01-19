@@ -46,5 +46,5 @@ https://github.com/KiranPandranki17/README-generator-bootcamp/assets/140180379/3
 ## Questions
 If you have any questions or need further assistance, feel free to reach out:
 
-GitHub Profile: [your-github-username](https://github.com/KiranPandranki17/)https://github.com/KiranPandranki17/
+GitHub Profile: (https://github.com/KiranPandranki17/)https://github.com/KiranPandranki17/
 
